@@ -1,0 +1,15 @@
+.event-page-banner-wrapper {
+    background-image: url('https://images.pexels.com/photos/4148984/pexels-photo-4148984.jpeg');
+    background-size: cover;
+    height: 39.5vh;
+    
+}
+
+.event-details-and-banner-wrapper {
+    height: 40vh;
+    border: 2px solid red;
+}
+
+#event-page-details-wrapper {
+    text-align: center;
+}
